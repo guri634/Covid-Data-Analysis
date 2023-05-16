@@ -5,6 +5,8 @@ We have used two csv files for this Analysis.
 [covid_deaths](https://github.com/guri634/SQL-Projects/blob/main/CovidDeaths.csv) and 
 [covid_vaccinations](https://github.com/guri634/SQL-Projects/blob/main/CovidVaccinations.csv).
 
+Download the sql excutable file from [here](https://github.com/guri634/Covid-Data-Analysis/blob/main/CovidDataAnalysis.sql) for MySQL Database.
+
 **Visualize the complete data**
 ```
 select *
